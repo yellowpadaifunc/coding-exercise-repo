@@ -7,7 +7,7 @@ This exercise simulates a core challenge that we use with our current MS Word Ad
 - Handle edge cases like headings, numbering, and placement before/after other sections
 - For clarity, write general code; that is, don't hard code to these examples
 
-We can provide you with a video of our current Word Add-in tool, if you need it.  
+For reference, you can review how our current Word Add-in tool works in our customer onboarding documentation at [https://www.notion.so/Welcome-to-YellowPad-Your-Onboarding-Guide-224b7202ce0280cdb06bd7b18f61d02a](https://www.notion.so/Welcome-to-YellowPad-Your-Onboarding-Guide-224b7202ce0280cdb06bd7b18f61d02a).
 
 You may use **any tools, libraries, or AI assistance** — speed and practicality are key (V0, Claude Code, Windsurf, Cursor, Gemini, Kiro, Copilot, etc).
 
