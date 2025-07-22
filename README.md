@@ -1,17 +1,21 @@
-# 🧪 YellowPad Coding Challenge: Smart Clause Insertion in MS Word
+# 🧪 YellowPad Coding Challenge: Smart Clause Insertion in Word Document
 
 ## 📌 Overview
-This exercise simulates a core challenge from our MS Word Add-in: **intelligently inserting legal language into the correct place in a few Word documents, with the correct formatting**. Your goal is to:
-
+This exercise simulates a core challenge that we use with our current MS Word Add-in: **intelligently inserting legal language into the correct place in a few Word documents, with the correct formatting**. Your goal is to create a React/Nextjs application and user interface to load a word document that can:
 - Identify where a clause should go in each contract
 - For each contract, insert the clause with the correct font, size, spacing, and formatting
 - Handle edge cases like headings, numbering, and placement before/after other sections
 - For clarity, write general code; that is, don't hard code to these examples
 
-You may use **any tools, libraries, or AI assistance** — speed and practicality are key.
+We can provide you with a video of our current Word Add-in tool, if you need it.  
+
+You may use **any tools, libraries, or AI assistance** — speed and practicality are key (V0, Claude Code, Windsurf, Cursor, Gemini, Kiro, Copilot, etc).
+
+## Questions
+If anytihng is unclear, please feel free to ask via email or Slack, just as you would if you were working for a company.
 
 ## 🕑 Time Limit
-Spend **no more than 2 hours** on this. We value quick iteration and resourcefulness over polish.
+Spend **no more than 2 hours** on this. We value quick iteration and resourcefulness over polish.  If you need to start and stop your work, that's fine. Just keep an work.md file in your project detailing what you did and how long it took.
 
 ## 🧩 The Challenge
 
@@ -28,8 +32,7 @@ Spend **no more than 2 hours** on this. We value quick iteration and resourceful
 3. Return the updated `.docx` files that shows the result
 
 ## 💻 Tech Notes
-- Use **Python** with `python-docx` (or similar), or **TypeScript** with an open-source Word manipulation tool
-- You **do not need to use LLMs**, but feel free to if it helps
+- Use **TypeScript** with an open-source Word manipulation tool
 - The clauses, instructions, and contracts are provided in this repo
 
 ## ✅ Submission Instructions
@@ -39,4 +42,5 @@ Spend **no more than 2 hours** on this. We value quick iteration and resourceful
    - Your approach
    - Challenges you encountered
    - Any AI tools you used
-4. Email your Loom + code/repo link to: `ananda@yellowpad.ai`
+4. Email your Loom + code/repo link to: `scott@yellowpad.ai`
+
