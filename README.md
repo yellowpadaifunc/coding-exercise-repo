@@ -12,7 +12,7 @@ For reference, you can review how our current Word Add-in tool works in our cust
 You may use **any tools, libraries, or AI assistance** — speed and practicality are key (V0, Claude Code, Windsurf, Cursor, Gemini, Kiro, Copilot, etc).
 
 ## Questions
-If anytihng is unclear, please feel free to ask via email or Slack, just as you would if you were working for a company.
+If anytihng is unclear, please feel free to ask via email.
 
 ## 🕑 Time Limit
 Spend **no more than 2 hours** on this. We value quick iteration and resourcefulness over polish.  If you need to start and stop your work, that's fine. Just keep an work.md file in your project detailing what you did and how long it took.
